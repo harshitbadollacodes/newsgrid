@@ -7,7 +7,7 @@
 body {
     font-family: 'Lato' , sans-serif;
     line-height: 1.8;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 
 ul li {
@@ -115,7 +115,7 @@ a {
     top: 0px;
     left: 0;
     height: 60vh;
-    width: 100vw;
+    width: 100%;
     z-index: -1;
 }
 
